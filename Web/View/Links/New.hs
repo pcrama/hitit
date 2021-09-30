@@ -18,6 +18,6 @@ instance View NewView where
 renderForm :: Link -> Html
 renderForm link = formFor link [hsx|
     {(textField #url)}
-    {(textField #visits)}
+    <hr/>
     {submitButton}
 |]

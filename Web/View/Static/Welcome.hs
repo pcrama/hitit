@@ -16,7 +16,7 @@ instance View WelcomeView where
                   </h2>
 
                   <p style="margin-top: 1rem; font-size: 1.75rem; font-weight: 600; color:hsla(196, 13%, 80%, 1)">
-                     Your hitit application is up and running.
+                     Your hitit application is updated and running again.
                   </p>
 
                   <p style="margin-top: 1rem; font-size: 1.75rem; font-weight: 600; color:hsla(196, 13%, 80%, 1)">
